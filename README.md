@@ -1,0 +1,1 @@
+This code implements the theoretical algorithms derived in my MSc thesis in Mathematical Epidemiology at the University of Padova. My MSc thesis is now public on the University of Padova website : https://thesis.unipd.it/handle/20.500.12608/108126 .
